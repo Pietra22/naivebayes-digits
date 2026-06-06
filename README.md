@@ -1,5 +1,3 @@
-Você pode colocar algo assim. Tem cara de relatório simples de aluno, sem ficar formal demais:
-
 # Classificação de Dígitos com Naive Bayes
 
 O objetivo deste trabalho foi aplicar o algoritmo Naive Bayes em um problema de classificação utilizando o dataset Digits da biblioteca Scikit-Learn.
@@ -23,6 +21,4 @@ O modelo apresentou uma boa taxa de acerto para o conjunto de dados utilizado, d
 Além da acurácia obtida, foi possível visualizar a matriz de confusão e comparar os valores previstos com os valores reais.
 
 # Conclusão
-A utilização do algoritmo Naive Bayes permitiu classificar os dígitos de forma eficiente. O experimento mostrou na prática como técnicas de aprendizado de máquina podem ser utilizadas para resolver problemas de classificação de dados.
-
-
+A utilização do algoritmo Naive Bayes permitiu classificar os dígitos de forma eficiente. O experimento mostrou na prática como técnicas de aprendizado de máquina podem ser utilizadas para resolver problemas de classificação de dados. 
